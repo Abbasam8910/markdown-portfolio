@@ -1,0 +1,3 @@
+- George Washington edu
+- John Adamsman
+- Thomas Jefferson
